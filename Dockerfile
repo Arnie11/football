@@ -1,3 +1,4 @@
+# Hier wären die Änderungen für den Hotfix 4711
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
