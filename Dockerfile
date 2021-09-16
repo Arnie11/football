@@ -1,4 +1,8 @@
 # Hier wären die Änderungen für den Hotfix 4711
+
+# 2. Fix durch Kollegen im Docker file
+
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
