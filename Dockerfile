@@ -1,8 +1,15 @@
 # Hier wären die Änderungen für den Hotfix 4711
 
+Vom Masterbranch (HEAD) war:
 # 2. Fix durch Kollegen im Docker file
 
+Vom Branch feature-f13-Docker war:
+# Feature f13 hier eingebaut ....
 
+# 2. Feature docker file.....
+
+
+Ohne Änderungen war der Rest:
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
